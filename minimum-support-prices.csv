@@ -1,0 +1,738 @@
+"id","year","crop","season","min_support_price"
+0,"2022-2023","Paddy - Common","Kharif",2040.0
+1,"2022-2023","Paddy - Grade 'A'","Kharif",2060.0
+2,"2022-2023","Jowar - Hybrid","Kharif",2970.0
+3,"2022-2023","Jowar - Maldandi","Kharif",2990.0
+4,"2022-2023","Bajra","Kharif",2350.0
+5,"2022-2023","Maize","Kharif",1962.0
+6,"2022-2023","Ragi","Kharif",3578.0
+7,"2022-2023","Arhar(Tur)","Kharif",6600.0
+8,"2022-2023","Moong,","Kharif",7755.0
+9,"2022-2023","Urad","Kharif",6600.0
+10,"2022-2023","Cotton","Kharif",6080.0
+11,"2022-2023","Cotton H-4","Kharif",6380.0
+12,"2022-2023","Groundnut In Shell","Kharif",5850.0
+13,"2022-2023","Sunflower  Seed","Kharif",6400.0
+14,"2022-2023","Soyabeen - Yellow","Kharif",7287.0
+15,"2022-2023","Sesamum","Kharif",7830.0
+16,"2022-2023","Nigerseed","Kharif",7287.0
+17,"2022-2023","Wheat","Rabi",2125.0
+18,"2022-2023","Barley","Rabi",1735.0
+19,"2022-2023","Gram","Rabi",5335.0
+20,"2022-2023","Masur (Lentil)","Rabi",6000.0
+21,"2022-2023","Rapeseed/Mustard","Rabi",5450.0
+22,"2022-2023","Safflower","Rabi",5650.0
+23,"2022-2023","Toria","Rabi",""
+24,"2022-2023","Copra - Milling","Others",10590.0
+25,"2022-2023","Copra - Ball","Others",11000.0
+26,"2022-2023","De-Husked Coconut","Others",2860.0
+27,"2022-2023","Jute","Others",4750.0
+28,"2021-2022","Paddy - Common","Kharif",1940.0
+29,"2021-2022","Paddy - Grade 'A'","Kharif",1960.0
+30,"2021-2022","Jowar - Hybrid","Kharif",2738.0
+31,"2021-2022","Jowar - Maldandi","Kharif",2758.0
+32,"2021-2022","Bajra","Kharif",2250.0
+33,"2021-2022","Maize","Kharif",1870.0
+34,"2021-2022","Ragi","Kharif",3377.0
+35,"2021-2022","Arhar(Tur)","Kharif",6300.0
+36,"2021-2022","Moong,","Kharif",7275.0
+37,"2021-2022","Urad","Kharif",6300.0
+38,"2021-2022","Cotton","Kharif",5726.0
+39,"2021-2022","Cotton H-4","Kharif",6025.0
+40,"2021-2022","Groundnut In Shell","Kharif",5550.0
+41,"2021-2022","Sunflower  Seed","Kharif",6015.0
+42,"2021-2022","Soyabeen - Yellow","Kharif",3950.0
+43,"2021-2022","Sesamum","Kharif",7307.0
+44,"2021-2022","Nigerseed","Kharif",6930.0
+45,"2021-2022","Wheat","Rabi",2015.0
+46,"2021-2022","Barley","Rabi",1635.0
+47,"2021-2022","Gram","Rabi",5230.0
+48,"2021-2022","Masur (Lentil)","Rabi",5500.0
+49,"2021-2022","Rapeseed/Mustard","Rabi",5050.0
+50,"2021-2022","Safflower","Rabi",5441.0
+51,"2021-2022","Toria","Rabi",5050.0
+52,"2021-2022","Copra - Milling","Others",10335.0
+53,"2021-2022","Copra - Ball","Others",10600.0
+54,"2021-2022","De-Husked Coconut","Others",2800.0
+55,"2021-2022","Jute","Others",4500.0
+56,"2020-2021","Paddy - Common","Kharif",1868.0
+57,"2020-2021","Paddy - Grade 'A'","Kharif",1888.0
+58,"2020-2021","Jowar - Hybrid","Kharif",2620.0
+59,"2020-2021","Jowar - Maldandi","Kharif",2640.0
+60,"2020-2021","Bajra","Kharif",2150.0
+61,"2020-2021","Maize","Kharif",1850.0
+62,"2020-2021","Ragi","Kharif",3295.0
+63,"2020-2021","Arhar(Tur)","Kharif",6000.0
+64,"2020-2021","Moong,","Kharif",7196.0
+65,"2020-2021","Urad","Kharif",6000.0
+66,"2020-2021","Cotton","Kharif",5515.0
+67,"2020-2021","Cotton H-4","Kharif",5825.0
+68,"2020-2021","Groundnut In Shell","Kharif",5275.0
+69,"2020-2021","Sunflower  Seed","Kharif",5885.0
+70,"2020-2021","Soyabeen - Yellow","Kharif",3880.0
+71,"2020-2021","Sesamum","Kharif",6249.0
+72,"2020-2021","Nigerseed","Kharif",6695.0
+73,"2020-2021","Wheat","Rabi",1975.0
+74,"2020-2021","Barley","Rabi",1600.0
+75,"2020-2021","Gram","Rabi",5100.0
+76,"2020-2021","Masur (Lentil)","Rabi",5100.0
+77,"2020-2021","Rapeseed/Mustard","Rabi",4650.0
+78,"2020-2021","Safflower","Rabi",5327.0
+79,"2020-2021","Toria","Rabi",4650.0
+80,"2020-2021","Copra - Milling","Others",9960.0
+81,"2020-2021","Copra - Ball","Others",10300.0
+82,"2020-2021","De-Husked Coconut","Others",2700.0
+83,"2020-2021","Jute","Others",4225.0
+84,"2019-2020","Paddy - Common","Kharif",1815.0
+85,"2019-2020","Paddy - Grade 'A'","Kharif",1835.0
+86,"2019-2020","Jowar - Hybrid","Kharif",2550.0
+87,"2019-2020","Jowar - Maldandi","Kharif",2570.0
+88,"2019-2020","Bajra","Kharif",2000.0
+89,"2019-2020","Maize","Kharif",1760.0
+90,"2019-2020","Ragi","Kharif",3150.0
+91,"2019-2020","Arhar(Tur)","Kharif",5800.0
+92,"2019-2020","Moong,","Kharif",7050.0
+93,"2019-2020","Urad","Kharif",5700.0
+94,"2019-2020","Cotton","Kharif",5255.0
+95,"2019-2020","Cotton H-4","Kharif",5550.0
+96,"2019-2020","Groundnut In Shell","Kharif",5090.0
+97,"2019-2020","Sunflower  Seed","Kharif",5650.0
+98,"2019-2020","Soyabeen - Yellow","Kharif",3710.0
+99,"2019-2020","Sesamum","Kharif",6485.0
+100,"2019-2020","Nigerseed","Kharif",5940.0
+101,"2019-2020","Wheat","Rabi",1925.0
+102,"2019-2020","Barley","Rabi",1525.0
+103,"2019-2020","Gram","Rabi",4875.0
+104,"2019-2020","Masur (Lentil)","Rabi",4800.0
+105,"2019-2020","Rapeseed/Mustard","Rabi",4425.0
+106,"2019-2020","Safflower","Rabi",5215.0
+107,"2019-2020","Toria","Rabi",4425.0
+108,"2019-2020","Copra - Milling","Others",9521.0
+109,"2019-2020","Copra - Ball","Others",9920.0
+110,"2019-2020","De-Husked Coconut","Others",2571.0
+111,"2019-2020","Jute","Others",3950.0
+112,"2018-2019","Paddy - Common","Kharif",1750.0
+113,"2018-2019","Paddy - Grade 'A'","Kharif",1770.0
+114,"2018-2019","Jowar - Hybrid","Kharif",2430.0
+115,"2018-2019","Jowar - Maldandi","Kharif",2450.0
+116,"2018-2019","Bajra","Kharif",1950.0
+117,"2018-2019","Maize","Kharif",1700.0
+118,"2018-2019","Ragi","Kharif",2897.0
+119,"2018-2019","Arhar(Tur)","Kharif",5675.0
+120,"2018-2019","Moong,","Kharif",6975.0
+121,"2018-2019","Urad","Kharif",5600.0
+122,"2018-2019","Cotton","Kharif",5150.0
+123,"2018-2019","Cotton H-4","Kharif",5450.0
+124,"2018-2019","Groundnut In Shell","Kharif",4890.0
+125,"2018-2019","Sunflower  Seed","Kharif",5388.0
+126,"2018-2019","Soyabeen - Yellow","Kharif",3399.0
+127,"2018-2019","Sesamum","Kharif",6249.0
+128,"2018-2019","Nigerseed","Kharif",5877.0
+129,"2018-2019","Wheat","Rabi",1840.0
+130,"2018-2019","Barley","Rabi",1440.0
+131,"2018-2019","Gram","Rabi",4620.0
+132,"2018-2019","Masur (Lentil)","Rabi",4475.0
+133,"2018-2019","Rapeseed/Mustard","Rabi",4200.0
+134,"2018-2019","Safflower","Rabi",4945.0
+135,"2018-2019","Toria","Rabi",4190.0
+136,"2018-2019","Copra - Milling","Others",7511.0
+137,"2018-2019","Copra - Ball","Others",7750.0
+138,"2018-2019","De-Husked Coconut","Others",2030.0
+139,"2018-2019","Jute","Others",3700.0
+140,"2017-2018","Paddy - Common","Kharif",1550.0
+141,"2017-2018","Paddy - Grade 'A'","Kharif",1590.0
+142,"2017-2018","Jowar - Hybrid","Kharif",1700.0
+143,"2017-2018","Jowar - Maldandi","Kharif",1725.0
+144,"2017-2018","Bajra","Kharif",1425.0
+145,"2017-2018","Maize","Kharif",1425.0
+146,"2017-2018","Ragi","Kharif",1900.0
+147,"2017-2018","Arhar(Tur)","Kharif",5450.0
+148,"2017-2018","Moong,","Kharif",5575.0
+149,"2017-2018","Urad","Kharif",5400.0
+150,"2017-2018","Cotton","Kharif",4020.0
+151,"2017-2018","Cotton H-4","Kharif",4320.0
+152,"2017-2018","Groundnut In Shell","Kharif",4450.0
+153,"2017-2018","Sunflower  Seed","Kharif",4100.0
+154,"2017-2018","Soyabeen - Yellow","Kharif",3050.0
+155,"2017-2018","Sesamum","Kharif",5300.0
+156,"2017-2018","Nigerseed","Kharif",4050.0
+157,"2017-2018","Wheat","Rabi",1735.0
+158,"2017-2018","Barley","Rabi",1410.0
+159,"2017-2018","Gram","Rabi",4400.0
+160,"2017-2018","Masur (Lentil)","Rabi",4250.0
+161,"2017-2018","Rapeseed/Mustard","Rabi",4000.0
+162,"2017-2018","Safflower","Rabi",4100.0
+163,"2017-2018","Toria","Rabi",3900.0
+164,"2017-2018","Copra - Milling","Others",6500.0
+165,"2017-2018","Copra - Ball","Others",6785.0
+166,"2017-2018","De-Husked Coconut","Others",1760.0
+167,"2017-2018","Jute","Others",3500.0
+168,"2017-2018","Sugarcane ","Others",255.0
+169,"2016-2017","Paddy - Common","Kharif",1470.0
+170,"2016-2017","Paddy - Grade 'A'","Kharif",1510.0
+171,"2016-2017","Jowar - Hybrid","Kharif",1625.0
+172,"2016-2017","Jowar - Maldandi","Kharif",1650.0
+173,"2016-2017","Bajra","Kharif",1330.0
+174,"2016-2017","Maize","Kharif",1365.0
+175,"2016-2017","Ragi","Kharif",1725.0
+176,"2016-2017","Arhar(Tur)","Kharif",5050.0
+177,"2016-2017","Moong,","Kharif",5225.0
+178,"2016-2017","Urad","Kharif",5000.0
+179,"2016-2017","Cotton","Kharif",3860.0
+180,"2016-2017","Cotton H-4","Kharif",4160.0
+181,"2016-2017","Groundnut In Shell","Kharif",4220.0
+182,"2016-2017","Sunflower  Seed","Kharif",3950.0
+183,"2016-2017","Soyabeen - Yellow","Kharif",2775.0
+184,"2016-2017","Sesamum","Kharif",5000.0
+185,"2016-2017","Nigerseed","Kharif",3825.0
+186,"2016-2017","Wheat","Rabi",1625.0
+187,"2016-2017","Barley","Rabi",1325.0
+188,"2016-2017","Gram","Rabi",4000.0
+189,"2016-2017","Masur (Lentil)","Rabi",3950.0
+190,"2016-2017","Rapeseed/Mustard","Rabi",3700.0
+191,"2016-2017","Safflower","Rabi",3700.0
+192,"2016-2017","Toria","Rabi",3560.0
+193,"2016-2017","Copra - Milling","Others",5950.0
+194,"2016-2017","Copra - Ball","Others",6240.0
+195,"2016-2017","De-Husked Coconut","Others",1600.0
+196,"2016-2017","Jute","Others",3200.0
+197,"2016-2017","Sugarcane ","Others",230.0
+198,"2015-2016","Paddy - Common","Kharif",1410.0
+199,"2015-2016","Paddy - Grade 'A'","Kharif",1450.0
+200,"2015-2016","Jowar - Hybrid","Kharif",1570.0
+201,"2015-2016","Jowar - Maldandi","Kharif",1590.0
+202,"2015-2016","Bajra","Kharif",1275.0
+203,"2015-2016","Maize","Kharif",1325.0
+204,"2015-2016","Ragi","Kharif",1650.0
+205,"2015-2016","Arhar(Tur)","Kharif",4625.0
+206,"2015-2016","Moong,","Kharif",4850.0
+207,"2015-2016","Urad","Kharif",4625.0
+208,"2015-2016","Cotton","Kharif",3800.0
+209,"2015-2016","Cotton H-4","Kharif",4100.0
+210,"2015-2016","Groundnut In Shell","Kharif",4030.0
+211,"2015-2016","Sunflower  Seed","Kharif",3800.0
+212,"2015-2016","Soyabeen - Yellow","Kharif",2600.0
+213,"2015-2016","Sesamum","Kharif",4700.0
+214,"2015-2016","Nigerseed","Kharif",3650.0
+215,"2015-2016","Wheat","Rabi",1525.0
+216,"2015-2016","Barley","Rabi",1225.0
+217,"2015-2016","Gram","Rabi",3500.0
+218,"2015-2016","Masur (Lentil)","Rabi",3400.0
+219,"2015-2016","Rapeseed/Mustard","Rabi",3350.0
+220,"2015-2016","Safflower","Rabi",3300.0
+221,"2015-2016","Toria","Rabi",3290.0
+222,"2015-2016","Copra - Milling","Others",5550.0
+223,"2015-2016","Copra - Ball","Others",5830.0
+224,"2015-2016","De-Husked Coconut","Others",1500.0
+225,"2015-2016","Jute","Others",2700.0
+226,"2015-2016","Sugarcane ","Others",230.0
+227,"2014-2015","Paddy - Common","Kharif",1360.0
+228,"2014-2015","Paddy - Grade 'A'","Kharif",1400.0
+229,"2014-2015","Jowar - Hybrid","Kharif",1530.0
+230,"2014-2015","Jowar - Maldandi","Kharif",1550.0
+231,"2014-2015","Bajra","Kharif",1250.0
+232,"2014-2015","Maize","Kharif",1310.0
+233,"2014-2015","Ragi","Kharif",1550.0
+234,"2014-2015","Arhar(Tur)","Kharif",4350.0
+235,"2014-2015","Moong,","Kharif",4600.0
+236,"2014-2015","Urad","Kharif",4350.0
+237,"2014-2015","Cotton","Kharif",3750.0
+238,"2014-2015","Cotton H-4","Kharif",4050.0
+239,"2014-2015","Groundnut In Shell","Kharif",4000.0
+240,"2014-2015","Sunflower  Seed","Kharif",3750.0
+241,"2014-2015","Soyabeen - Black","Kharif",2500.0
+242,"2014-2015","Soyabeen - Yellow","Kharif",2560.0
+243,"2014-2015","Sesamum","Kharif",4600.0
+244,"2014-2015","Nigerseed","Kharif",3600.0
+245,"2014-2015","Wheat","Rabi",1450.0
+246,"2014-2015","Barley","Rabi",1150.0
+247,"2014-2015","Gram","Rabi",3175.0
+248,"2014-2015","Masur (Lentil)","Rabi",3075.0
+249,"2014-2015","Rapeseed/Mustard","Rabi",3100.0
+250,"2014-2015","Safflower","Rabi",3050.0
+251,"2014-2015","Toria","Rabi",3020.0
+252,"2014-2015","Copra - Milling","Others",5250.0
+253,"2014-2015","Copra - Ball","Others",5500.0
+254,"2014-2015","De-Husked Coconut","Others",1425.0
+255,"2014-2015","Jute","Others",2400.0
+256,"2014-2015","Sugarcane ","Others",220.0
+257,"2013-2014","Paddy - Common","Kharif",1310.0
+258,"2013-2014","Paddy - Grade 'A'","Kharif",1345.0
+259,"2013-2014","Jowar - Hybrid","Kharif",1500.0
+260,"2013-2014","Jowar - Maldandi","Kharif",1520.0
+261,"2013-2014","Bajra","Kharif",1250.0
+262,"2013-2014","Maize","Kharif",1310.0
+263,"2013-2014","Ragi","Kharif",1500.0
+264,"2013-2014","Arhar(Tur)","Kharif",4300.0
+265,"2013-2014","Moong,","Kharif",4500.0
+266,"2013-2014","Urad","Kharif",4300.0
+267,"2013-2014","Cotton","Kharif",3700.0
+268,"2013-2014","Cotton H-4","Kharif",4000.0
+269,"2013-2014","Groundnut In Shell","Kharif",4000.0
+270,"2013-2014","Sunflower  Seed","Kharif",3700.0
+271,"2013-2014","Soyabeen - Black","Kharif",2500.0
+272,"2013-2014","Soyabeen - Yellow","Kharif",2560.0
+273,"2013-2014","Sesamum","Kharif",4500.0
+274,"2013-2014","Nigerseed","Kharif",3500.0
+275,"2013-2014","Wheat","Rabi",1400.0
+276,"2013-2014","Barley","Rabi",1100.0
+277,"2013-2014","Gram","Rabi",3100.0
+278,"2013-2014","Masur (Lentil)","Rabi",2950.0
+279,"2013-2014","Rapeseed/Mustard","Rabi",3050.0
+280,"2013-2014","Safflower","Rabi",3000.0
+281,"2013-2014","Toria","Rabi",3020.0
+282,"2013-2014","Copra - Milling","Others",5250.0
+283,"2013-2014","Copra - Ball","Others",5500.0
+284,"2013-2014","De-Husked Coconut","Others",1425.0
+285,"2013-2014","Jute","Others",2300.0
+286,"2013-2014","Sugarcane ","Others",210.0
+287,"2011-2012","Paddy - Common","Kharif",1080.0
+288,"2011-2012","Paddy - Grade 'A'","Kharif",1110.0
+289,"2011-2012","Jowar - Hybrid","Kharif",980.0
+290,"2011-2012","Jowar - Maldandi","Kharif",1000.0
+291,"2011-2012","Bajra","Kharif",980.0
+292,"2011-2012","Maize","Kharif",980.0
+293,"2011-2012","Ragi","Kharif",1050.0
+294,"2011-2012","Arhar(Tur)","Kharif",3200.0
+295,"2011-2012","Moong,","Kharif",3500.0
+296,"2011-2012","Urad","Kharif",3300.0
+297,"2011-2012","Cotton","Kharif",2800.0
+298,"2011-2012","Cotton H-4","Kharif",3300.0
+299,"2011-2012","Groundnut In Shell","Kharif",2700.0
+300,"2011-2012","Sunflower  Seed","Kharif",2800.0
+301,"2011-2012","Soyabeen - Black","Kharif",1650.0
+302,"2011-2012","Soyabeen - Yellow","Kharif",1690.0
+303,"2011-2012","Sesamum","Kharif",3400.0
+304,"2011-2012","Nigerseed","Kharif",2900.0
+305,"2011-2012","Wheat","Rabi",1285.0
+306,"2011-2012","Barley","Rabi",980.0
+307,"2011-2012","Gram","Rabi",2800.0
+308,"2011-2012","Masur (Lentil)","Rabi",2800.0
+309,"2011-2012","Rapeseed/Mustard","Rabi",2500.0
+310,"2011-2012","Safflower","Rabi",2500.0
+311,"2011-2012","Toria","Rabi",2425.0
+312,"2011-2012","Copra - Milling","Others",4525.0
+313,"2011-2012","Copra - Ball","Others",4775.0
+314,"2011-2012","De-Husked Coconut","Others",1200.0
+315,"2011-2012","Jute","Others",1675.0
+316,"2011-2012","Sugarcane ","Others",145.0
+317,"2012-2013","Paddy - Common","Kharif",1250.0
+318,"2012-2013","Paddy - Grade 'A'","Kharif",1280.0
+319,"2012-2013","Jowar - Hybrid","Kharif",1500.0
+320,"2012-2013","Jowar - Maldandi","Kharif",1520.0
+321,"2012-2013","Bajra","Kharif",1175.0
+322,"2012-2013","Maize","Kharif",1175.0
+323,"2012-2013","Ragi","Kharif",1500.0
+324,"2012-2013","Arhar(Tur)","Kharif",3850.0
+325,"2012-2013","Moong,","Kharif",4400.0
+326,"2012-2013","Urad","Kharif",4300.0
+327,"2012-2013","Cotton","Kharif",3600.0
+328,"2012-2013","Cotton H-4","Kharif",3900.0
+329,"2012-2013","Groundnut In Shell","Kharif",3700.0
+330,"2012-2013","Sunflower  Seed","Kharif",3700.0
+331,"2012-2013","Soyabeen - Black","Kharif",2200.0
+332,"2012-2013","Soyabeen - Yellow","Kharif",2240.0
+333,"2012-2013","Sesamum","Kharif",4200.0
+334,"2012-2013","Nigerseed","Kharif",3500.0
+335,"2012-2013","Wheat","Rabi",1350.0
+336,"2012-2013","Barley","Rabi",980.0
+337,"2012-2013","Gram","Rabi",3000.0
+338,"2012-2013","Masur (Lentil)","Rabi",2900.0
+339,"2012-2013","Rapeseed/Mustard","Rabi",3000.0
+340,"2012-2013","Safflower","Rabi",2800.0
+341,"2012-2013","Toria","Rabi",2970.0
+342,"2012-2013","Copra - Milling","Others",5100.0
+343,"2012-2013","Copra - Ball","Others",5350.0
+344,"2012-2013","De-Husked Coconut","Others",1400.0
+345,"2012-2013","Jute","Others",2200.0
+346,"2012-2013","Sugarcane ","Others",170.0
+347,"2010-2011","Paddy - Common","Kharif",1000.0
+348,"2010-2011","Paddy - Grade 'A'","Kharif",1030.0
+349,"2010-2011","Jowar - Hybrid","Kharif",880.0
+350,"2010-2011","Jowar - Maldandi","Kharif",900.0
+351,"2010-2011","Bajra","Kharif",880.0
+352,"2010-2011","Maize","Kharif",880.0
+353,"2010-2011","Ragi","Kharif",965.0
+354,"2010-2011","Arhar(Tur)","Kharif",3000.0
+355,"2010-2011","Moong,","Kharif",3170.0
+356,"2010-2011","Urad","Kharif",2900.0
+357,"2010-2011","Cotton","Kharif",2500.0
+358,"2010-2011","Cotton H-4","Kharif",3000.0
+359,"2010-2011","Groundnut In Shell","Kharif",2300.0
+360,"2010-2011","Sunflower  Seed","Kharif",2350.0
+361,"2010-2011","Soyabeen - Black","Kharif",1400.0
+362,"2010-2011","Soyabeen - Yellow","Kharif",1440.0
+363,"2010-2011","Sesamum","Kharif",2900.0
+364,"2010-2011","Nigerseed","Kharif",2450.0
+365,"2010-2011","Wheat","Rabi",1120.0
+366,"2010-2011","Barley","Rabi",780.0
+367,"2010-2011","Gram","Rabi",2100.0
+368,"2010-2011","Masur (Lentil)","Rabi",2250.0
+369,"2010-2011","Rapeseed/Mustard","Rabi",1850.0
+370,"2010-2011","Safflower","Rabi",1800.0
+371,"2010-2011","Toria","Rabi",1780.0
+372,"2010-2011","Copra - Milling","Others",4450.0
+373,"2010-2011","Copra - Ball","Others",4700.0
+374,"2010-2011","De-Husked Coconut","Others",1200.0
+375,"2010-2011","Jute","Others",1575.0
+376,"2010-2011","Sugarcane ","Others",139.12
+377,"2009-2010","Paddy - Common","Kharif",950.0
+378,"2009-2010","Paddy - Grade 'A'","Kharif",980.0
+379,"2009-2010","Jowar - Hybrid","Kharif",840.0
+380,"2009-2010","Jowar - Maldandi","Kharif",860.0
+381,"2009-2010","Bajra","Kharif",840.0
+382,"2009-2010","Maize","Kharif",840.0
+383,"2009-2010","Ragi","Kharif",915.0
+384,"2009-2010","Arhar(Tur)","Kharif",2300.0
+385,"2009-2010","Moong,","Kharif",2760.0
+386,"2009-2010","Urad","Kharif",2520.0
+387,"2009-2010","Cotton","Kharif",2500.0
+388,"2009-2010","Cotton H-4","Kharif",3000.0
+389,"2009-2010","Groundnut In Shell","Kharif",2100.0
+390,"2009-2010","Sunflower  Seed","Kharif",2215.0
+391,"2009-2010","Soyabeen - Black","Kharif",1350.0
+392,"2009-2010","Soyabeen - Yellow","Kharif",1390.0
+393,"2009-2010","Sesamum","Kharif",2850.0
+394,"2009-2010","Nigerseed","Kharif",2405.0
+395,"2009-2010","Wheat","Rabi",1100.0
+396,"2009-2010","Barley","Rabi",750.0
+397,"2009-2010","Gram","Rabi",1760.0
+398,"2009-2010","Masur (Lentil)","Rabi",1870.0
+399,"2009-2010","Rapeseed/Mustard","Rabi",1830.0
+400,"2009-2010","Safflower","Rabi",1680.0
+401,"2009-2010","Toria","Rabi",1735.0
+402,"2009-2010","Copra - Milling","Others",4450.0
+403,"2009-2010","Copra - Ball","Others",4700.0
+404,"2009-2010","De-Husked Coconut","Others",1200.0
+405,"2009-2010","Jute","Others",1375.0
+406,"2009-2010","Sugarcane ","Others",129.84
+407,"2008-2009","Paddy - Common","Kharif",850.0
+408,"2008-2009","Paddy - Grade 'A'","Kharif",880.0
+409,"2008-2009","Jowar - Hybrid","Kharif",840.0
+410,"2008-2009","Jowar - Maldandi","Kharif",860.0
+411,"2008-2009","Bajra","Kharif",840.0
+412,"2008-2009","Maize","Kharif",840.0
+413,"2008-2009","Ragi","Kharif",915.0
+414,"2008-2009","Arhar(Tur)","Kharif",2000.0
+415,"2008-2009","Moong,","Kharif",2520.0
+416,"2008-2009","Urad","Kharif",2520.0
+417,"2008-2009","Cotton","Kharif",2500.0
+418,"2008-2009","Cotton H-4","Kharif",3000.0
+419,"2008-2009","Groundnut In Shell","Kharif",2100.0
+420,"2008-2009","Sunflower  Seed","Kharif",2215.0
+421,"2008-2009","Soyabeen - Black","Kharif",1350.0
+422,"2008-2009","Soyabeen - Yellow","Kharif",1390.0
+423,"2008-2009","Sesamum","Kharif",2750.0
+424,"2008-2009","Nigerseed","Kharif",2405.0
+425,"2008-2009","Wheat","Rabi",1080.0
+426,"2008-2009","Barley","Rabi",680.0
+427,"2008-2009","Gram","Rabi",1730.0
+428,"2008-2009","Masur (Lentil)","Rabi",1870.0
+429,"2008-2009","Rapeseed/Mustard","Rabi",1830.0
+430,"2008-2009","Safflower","Rabi",1650.0
+431,"2008-2009","Toria","Rabi",1735.0
+432,"2008-2009","Copra - Milling","Others",3660.0
+433,"2008-2009","Copra - Ball","Others",3910.0
+434,"2008-2009","De-Husked Coconut","Others",988.0
+435,"2008-2009","Jute","Others",1250.0
+436,"2008-2009","Sugarcane ","Others",81.18
+437,"2007-2008","Paddy - Common","Kharif",645.0
+438,"2007-2008","Paddy - Grade 'A'","Kharif",675.0
+439,"2007-2008","Jowar - Hybrid","Kharif",600.0
+440,"2007-2008","Jowar - Maldandi","Kharif",620.0
+441,"2007-2008","Bajra","Kharif",600.0
+442,"2007-2008","Maize","Kharif",620.0
+443,"2007-2008","Ragi","Kharif",600.0
+444,"2007-2008","Arhar(Tur)","Kharif",1550.0
+445,"2007-2008","Moong,","Kharif",1700.0
+446,"2007-2008","Urad","Kharif",1700.0
+447,"2007-2008","Cotton","Kharif",1800.0
+448,"2007-2008","Cotton H-4","Kharif",2030.0
+449,"2007-2008","Groundnut In Shell","Kharif",1550.0
+450,"2007-2008","Sunflower  Seed","Kharif",1510.0
+451,"2007-2008","Soyabeen - Black","Kharif",910.0
+452,"2007-2008","Soyabeen - Yellow","Kharif",1050.0
+453,"2007-2008","Sesamum","Kharif",1580.0
+454,"2007-2008","Nigerseed","Kharif",1240.0
+455,"2007-2008","Wheat","Rabi",1000.0
+456,"2007-2008","Barley","Rabi",650.0
+457,"2007-2008","Gram","Rabi",1600.0
+458,"2007-2008","Masur (Lentil)","Rabi",1700.0
+459,"2007-2008","Rapeseed/Mustard","Rabi",1800.0
+460,"2007-2008","Safflower","Rabi",1650.0
+461,"2007-2008","Toria","Rabi",1735.0
+462,"2007-2008","Copra - Milling","Others",3620.0
+463,"2007-2008","Copra - Ball","Others",3870.0
+464,"2007-2008","Jute","Others",1055.0
+465,"2007-2008","Sugarcane ","Others",81.18
+466,"2007-2008","Tobacco - Black Soil (F2 Gr)","Others",32.0
+467,"2007-2008","Tobacco - Light Soil (L2 Gr)","Others",34.0
+468,"2006-2007","Paddy - Common","Kharif",580.0
+469,"2006-2007","Paddy - Grade 'A'","Kharif",610.0
+470,"2006-2007","Jowar - Hybrid","Kharif",540.0
+471,"2006-2007","Jowar - Maldandi","Kharif",555.0
+472,"2006-2007","Bajra","Kharif",540.0
+473,"2006-2007","Maize","Kharif",540.0
+474,"2006-2007","Ragi","Kharif",540.0
+475,"2006-2007","Arhar(Tur)","Kharif",1410.0
+476,"2006-2007","Moong,","Kharif",1520.0
+477,"2006-2007","Urad","Kharif",1520.0
+478,"2006-2007","Cotton","Kharif",1770.0
+479,"2006-2007","Cotton H-4","Kharif",1990.0
+480,"2006-2007","Groundnut In Shell","Kharif",1520.0
+481,"2006-2007","Sunflower  Seed","Kharif",1500.0
+482,"2006-2007","Soyabeen - Black","Kharif",900.0
+483,"2006-2007","Soyabeen - Yellow","Kharif",1020.0
+484,"2006-2007","Sesamum","Kharif",1560.0
+485,"2006-2007","Nigerseed","Kharif",1220.0
+486,"2006-2007","Wheat","Rabi",750.0
+487,"2006-2007","Barley","Rabi",565.0
+488,"2006-2007","Gram","Rabi",1445.0
+489,"2006-2007","Masur (Lentil)","Rabi",1545.0
+490,"2006-2007","Rapeseed/Mustard","Rabi",1715.0
+491,"2006-2007","Safflower","Rabi",1565.0
+492,"2006-2007","Toria","Rabi",1680.0
+493,"2006-2007","Copra - Milling","Others",3590.0
+494,"2006-2007","Copra - Ball","Others",3840.0
+495,"2006-2007","Jute","Others",1000.0
+496,"2006-2007","Sugarcane ","Others",80.25
+497,"2006-2007","Tobacco - Black Soil (F2 Gr)","Others",32.0
+498,"2006-2007","Tobacco - Light Soil (L2 Gr)","Others",34.0
+499,"2005-2006","Paddy - Common","Kharif",570.0
+500,"2005-2006","Paddy - Grade 'A'","Kharif",600.0
+501,"2005-2006","Jowar - Hybrid","Kharif",525.0
+502,"2005-2006","Bajra","Kharif",525.0
+503,"2005-2006","Maize","Kharif",540.0
+504,"2005-2006","Ragi","Kharif",525.0
+505,"2005-2006","Arhar(Tur)","Kharif",1400.0
+506,"2005-2006","Moong,","Kharif",1520.0
+507,"2005-2006","Urad","Kharif",1520.0
+508,"2005-2006","Cotton","Kharif",1760.0
+509,"2005-2006","Cotton H-4","Kharif",1880.0
+510,"2005-2006","Groundnut In Shell","Kharif",1520.0
+511,"2005-2006","Sunflower  Seed","Kharif",1500.0
+512,"2005-2006","Soyabeen - Black","Kharif",900.0
+513,"2005-2006","Soyabeen - Yellow","Kharif",1010.0
+514,"2005-2006","Sesamum","Kharif",1550.0
+515,"2005-2006","Nigerseed","Kharif",1200.0
+516,"2005-2006","Wheat","Rabi",650.0
+517,"2005-2006","Barley","Rabi",550.0
+518,"2005-2006","Gram","Rabi",1435.0
+519,"2005-2006","Masur (Lentil)","Rabi",1535.0
+520,"2005-2006","Rapeseed/Mustard","Rabi",1715.0
+521,"2005-2006","Safflower","Rabi",1565.0
+522,"2005-2006","Toria","Rabi",1680.0
+523,"2005-2006","Copra - Milling","Others",3570.0
+524,"2005-2006","Copra - Ball","Others",3820.0
+525,"2005-2006","Jute","Others",910.0
+526,"2005-2006","Sugarcane ","Others",79.5
+527,"2005-2006","Tobacco - Black Soil (F2 Gr)","Others",32.0
+528,"2005-2006","Tobacco - Light Soil (L2 Gr)","Others",34.0
+529,"2004-2005","Paddy - Common","Kharif",560.0
+530,"2004-2005","Paddy - Grade 'A'","Kharif",590.0
+531,"2004-2005","Jowar - Hybrid","Kharif",515.0
+532,"2004-2005","Bajra","Kharif",515.0
+533,"2004-2005","Maize","Kharif",525.0
+534,"2004-2005","Ragi","Kharif",515.0
+535,"2004-2005","Arhar(Tur)","Kharif",1390.0
+536,"2004-2005","Moong,","Kharif",1410.0
+537,"2004-2005","Urad","Kharif",1410.0
+538,"2004-2005","Cotton","Kharif",1760.0
+539,"2004-2005","Cotton H-4","Kharif",1960.0
+540,"2004-2005","Groundnut In Shell","Kharif",1500.0
+541,"2004-2005","Sunflower  Seed","Kharif",1340.0
+542,"2004-2005","Soyabeen - Black","Kharif",900.0
+543,"2004-2005","Soyabeen - Yellow","Kharif",1000.0
+544,"2004-2005","Sesamum","Kharif",1500.0
+545,"2004-2005","Nigerseed","Kharif",1180.0
+546,"2004-2005","Wheat","Rabi",640.0
+547,"2004-2005","Barley","Rabi",540.0
+548,"2004-2005","Gram","Rabi",1425.0
+549,"2004-2005","Masur (Lentil)","Rabi",1525.0
+550,"2004-2005","Rapeseed/Mustard","Rabi",1700.0
+551,"2004-2005","Safflower","Rabi",1550.0
+552,"2004-2005","Toria","Rabi",1665.0
+553,"2004-2005","Copra - Milling","Others",3500.0
+554,"2004-2005","Copra - Ball","Others",3750.0
+555,"2004-2005","Jute","Others",890.0
+556,"2004-2005","Sugarcane ","Others",74.5
+557,"2004-2005","Tobacco - Black Soil (F2 Gr)","Others",32.0
+558,"2004-2005","Tobacco - Light Soil (L2 Gr)","Others",34.0
+559,"2003-2004","Paddy - Common","Kharif",550.0
+560,"2003-2004","Paddy - Grade 'A'","Kharif",580.0
+561,"2003-2004","Jowar - Hybrid","Kharif",505.0
+562,"2003-2004","Bajra","Kharif",505.0
+563,"2003-2004","Maize","Kharif",505.0
+564,"2003-2004","Ragi","Kharif",505.0
+565,"2003-2004","Arhar(Tur)","Kharif",1360.0
+566,"2003-2004","Moong,","Kharif",1370.0
+567,"2003-2004","Urad","Kharif",1370.0
+568,"2003-2004","Cotton","Kharif",1725.0
+569,"2003-2004","Cotton H-4","Kharif",1825.0
+570,"2003-2004","Groundnut In Shell","Kharif",1400.0
+571,"2003-2004","Sunflower  Seed","Kharif",1250.0
+572,"2003-2004","Soyabeen - Black","Kharif",840.0
+573,"2003-2004","Soyabeen - Yellow","Kharif",930.0
+574,"2003-2004","Sesamum","Kharif",1485.0
+575,"2003-2004","Nigerseed","Kharif",1155.0
+576,"2003-2004","Wheat","Rabi",630.0
+577,"2003-2004","Barley","Rabi",525.0
+578,"2003-2004","Gram","Rabi",1400.0
+579,"2003-2004","Masur (Lentil)","Rabi",1500.0
+580,"2003-2004","Rapeseed/Mustard","Rabi",1600.0
+581,"2003-2004","Safflower","Rabi",1500.0
+582,"2003-2004","Toria","Rabi",1565.0
+583,"2003-2004","Copra - Milling","Others",3320.0
+584,"2003-2004","Copra - Ball","Others",3570.0
+585,"2003-2004","Jute","Others",860.0
+586,"2003-2004","Sugarcane ","Others",73.0
+587,"2003-2004","Tobacco - Black Soil (F2 Gr)","Others",31.0
+588,"2003-2004","Tobacco - Light Soil (L2 Gr)","Others",33.0
+589,"2002-2003","Paddy - Common","Kharif",530.0
+590,"2002-2003","Paddy - Grade 'A'","Kharif",560.0
+591,"2002-2003","Jowar - Hybrid","Kharif",485.0
+592,"2002-2003","Bajra","Kharif",485.0
+593,"2002-2003","Maize","Kharif",485.0
+594,"2002-2003","Ragi","Kharif",485.0
+595,"2002-2003","Arhar(Tur)","Kharif",1320.0
+596,"2002-2003","Moong,","Kharif",1330.0
+597,"2002-2003","Urad","Kharif",1330.0
+598,"2002-2003","Cotton","Kharif",1675.0
+599,"2002-2003","Cotton H-4","Kharif",1875.0
+600,"2002-2003","Groundnut In Shell","Kharif",1355.0
+601,"2002-2003","Sunflower  Seed","Kharif",1195.0
+602,"2002-2003","Soyabeen - Black","Kharif",795.0
+603,"2002-2003","Soyabeen - Yellow","Kharif",885.0
+604,"2002-2003","Sesamum","Kharif",1450.0
+605,"2002-2003","Nigerseed","Kharif",1120.0
+606,"2002-2003","Wheat","Rabi",620.0
+607,"2002-2003","Barley","Rabi",500.0
+608,"2002-2003","Gram","Rabi",1220.0
+609,"2002-2003","Masur (Lentil)","Rabi",1320.0
+610,"2002-2003","Rapeseed/Mustard","Rabi",1330.0
+611,"2002-2003","Safflower","Rabi",1300.0
+612,"2002-2003","Toria","Rabi",1295.0
+613,"2002-2003","Copra - Milling","Others",3300.0
+614,"2002-2003","Copra - Ball","Others",3550.0
+615,"2002-2003","Jute","Others",850.0
+616,"2002-2003","Sugarcane ","Others",69.5
+617,"2002-2003","Tobacco - Black Soil (F2 Gr)","Others",28.0
+618,"2002-2003","Tobacco - Light Soil (L2 Gr)","Others",30.0
+619,"2001-2002","Paddy - Common","Kharif",530.0
+620,"2001-2002","Paddy - Grade 'A'","Kharif",560.0
+621,"2001-2002","Jowar - Hybrid","Kharif",485.0
+622,"2001-2002","Bajra","Kharif",485.0
+623,"2001-2002","Maize","Kharif",485.0
+624,"2001-2002","Ragi","Kharif",485.0
+625,"2001-2002","Arhar(Tur)","Kharif",1320.0
+626,"2001-2002","Moong,","Kharif",1320.0
+627,"2001-2002","Urad","Kharif",1320.0
+628,"2001-2002","Cotton","Kharif",1675.0
+629,"2001-2002","Cotton H-4","Kharif",1875.0
+630,"2001-2002","Groundnut In Shell","Kharif",1340.0
+631,"2001-2002","Sunflower  Seed","Kharif",1185.0
+632,"2001-2002","Soyabeen - Black","Kharif",795.0
+633,"2001-2002","Soyabeen - Yellow","Kharif",885.0
+634,"2001-2002","Sesamum","Kharif",1400.0
+635,"2001-2002","Nigerseed","Kharif",1100.0
+636,"2001-2002","Wheat","Rabi",620.0
+637,"2001-2002","Barley","Rabi",500.0
+638,"2001-2002","Gram","Rabi",1200.0
+639,"2001-2002","Masur (Lentil)","Rabi",1300.0
+640,"2001-2002","Rapeseed/Mustard","Rabi",1300.0
+641,"2001-2002","Safflower","Rabi",1300.0
+642,"2001-2002","Toria","Rabi",1265.0
+643,"2001-2002","Copra - Milling","Others",3300.0
+644,"2001-2002","Copra - Ball","Others",3550.0
+645,"2001-2002","Jute","Others",810.0
+646,"2001-2002","Sugarcane ","Others",62.05
+647,"2001-2002","Tobacco - Black Soil (F2 Gr)","Others",27.0
+648,"2001-2002","Tobacco - Light Soil (L2 Gr)","Others",29.0
+649,"2000-2001","Paddy - Common","Kharif",510.0
+650,"2000-2001","Paddy - Grade 'A'","Kharif",540.0
+651,"2000-2001","Jowar - Hybrid","Kharif",445.0
+652,"2000-2001","Bajra","Kharif",445.0
+653,"2000-2001","Maize","Kharif",445.0
+654,"2000-2001","Ragi","Kharif",445.0
+655,"2000-2001","Arhar(Tur)","Kharif",1200.0
+656,"2000-2001","Moong,","Kharif",1200.0
+657,"2000-2001","Urad","Kharif",1200.0
+658,"2000-2001","Cotton","Kharif",1625.0
+659,"2000-2001","Cotton H-4","Kharif",1825.0
+660,"2000-2001","Groundnut In Shell","Kharif",1220.0
+661,"2000-2001","Sunflower  Seed","Kharif",1170.0
+662,"2000-2001","Soyabeen - Black","Kharif",775.0
+663,"2000-2001","Soyabeen - Yellow","Kharif",865.0
+664,"2000-2001","Sesamum","Kharif",1300.0
+665,"2000-2001","Nigerseed","Kharif",1025.0
+666,"2000-2001","Wheat","Rabi",610.0
+667,"2000-2001","Barley","Rabi",500.0
+668,"2000-2001","Gram","Rabi",1100.0
+669,"2000-2001","Masur (Lentil)","Rabi",1200.0
+670,"2000-2001","Rapeseed/Mustard","Rabi",1200.0
+671,"2000-2001","Safflower","Rabi",1200.0
+672,"2000-2001","Toria","Rabi",1165.0
+673,"2000-2001","Copra - Milling","Others",3250.0
+674,"2000-2001","Copra - Ball","Others",3500.0
+675,"2000-2001","Jute","Others",785.0
+676,"2000-2001","Sugarcane ","Others",59.5
+677,"2000-2001","Tobacco - Black Soil (F2 Gr)","Others",26.0
+678,"2000-2001","Tobacco - Light Soil (L2 Gr)","Others",28.0
+679,"1999-2000","Paddy - Common","Kharif",490.0
+680,"1999-2000","Paddy - Grade 'A'","Kharif",520.0
+681,"1999-2000","Jowar - Hybrid","Kharif",415.0
+682,"1999-2000","Bajra","Kharif",415.0
+683,"1999-2000","Maize","Kharif",415.0
+684,"1999-2000","Ragi","Kharif",415.0
+685,"1999-2000","Arhar(Tur)","Kharif",1105.0
+686,"1999-2000","Moong,","Kharif",1105.0
+687,"1999-2000","Urad","Kharif",1105.0
+688,"1999-2000","Cotton","Kharif",1575.0
+689,"1999-2000","Cotton H-4","Kharif",1775.0
+690,"1999-2000","Groundnut In Shell","Kharif",1155.0
+691,"1999-2000","Sunflower  Seed","Kharif",1155.0
+692,"1999-2000","Soyabeen - Black","Kharif",755.0
+693,"1999-2000","Soyabeen - Yellow","Kharif",845.0
+694,"1999-2000","Sesamum","Kharif",1205.0
+695,"1999-2000","Nigerseed","Kharif",915.0
+696,"1999-2000","Wheat","Rabi",580.0
+697,"1999-2000","Barley","Rabi",430.0
+698,"1999-2000","Gram","Rabi",1015.0
+699,"1999-2000","Rapeseed/Mustard","Rabi",1100.0
+700,"1999-2000","Safflower","Rabi",1100.0
+701,"1999-2000","Toria","Rabi",1065.0
+702,"1999-2000","Copra - Milling","Others",3100.0
+703,"1999-2000","Copra - Ball","Others",3325.0
+704,"1999-2000","Jute","Others",750.0
+705,"1999-2000","Sugarcane ","Others",56.1
+706,"1999-2000","Tobacco - Black Soil (F2 Gr)","Others",25.0
+707,"1999-2000","Tobacco - Light Soil (L2 Gr)","Others",27.0
+708,"1998-1999","Paddy - Common","Kharif",440.0
+709,"1998-1999","Paddy - Grade 'A'","Kharif",470.0
+710,"1998-1999","Jowar - Hybrid","Kharif",390.0
+711,"1998-1999","Bajra","Kharif",390.0
+712,"1998-1999","Maize","Kharif",390.0
+713,"1998-1999","Ragi","Kharif",390.0
+714,"1998-1999","Arhar(Tur)","Kharif",960.0
+715,"1998-1999","Moong,","Kharif",960.0
+716,"1998-1999","Urad","Kharif",960.0
+717,"1998-1999","Cotton","Kharif",1440.0
+718,"1998-1999","Cotton H-4","Kharif",1650.0
+719,"1998-1999","Groundnut In Shell","Kharif",1040.0
+720,"1998-1999","Sunflower  Seed","Kharif",1060.0
+721,"1998-1999","Soyabeen - Black","Kharif",705.0
+722,"1998-1999","Soyabeen - Yellow","Kharif",795.0
+723,"1998-1999","Sesamum","Kharif",1060.0
+724,"1998-1999","Nigerseed","Kharif",850.0
+725,"1998-1999","Wheat","Rabi",550.0
+726,"1998-1999","Barley","Rabi",385.0
+727,"1998-1999","Gram","Rabi",895.0
+728,"1998-1999","Rapeseed/Mustard","Rabi",1000.0
+729,"1998-1999","Safflower","Rabi",990.0
+730,"1998-1999","Toria","Rabi",965.0
+731,"1998-1999","Copra - Milling","Others",2900.0
+732,"1998-1999","Copra - Ball","Others",3125.0
+733,"1998-1999","Jute","Others",650.0
+734,"1998-1999","Sugarcane ","Others",52.7
+735,"1998-1999","Tobacco - Black Soil (F2 Gr)","Others",22.5
+736,"1998-1999","Tobacco - Light Soil (L2 Gr)","Others",25.5
