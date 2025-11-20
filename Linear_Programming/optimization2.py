@@ -40,14 +40,14 @@ MIN_LIMITS_HA = {
 
 # --- 3. CROP INPUT ESTIMATES ---
 CROP_RESOURCES = {
-    'Rice':         {'Cost': 55000, 'Labor': 150, 'Water': 12000}, 
-    'Maize':        {'Cost': 35000, 'Labor': 80,  'Water': 5000},
-    'Sugarcane':    {'Cost': 80000, 'Labor': 200, 'Water': 20000}, 
-    'Cotton(lint)': {'Cost': 45000, 'Labor': 120, 'Water': 7000},
-    'Arhar/Tur':    {'Cost': 30000, 'Labor': 60,  'Water': 4000},
-    'Jute':         {'Cost': 40000, 'Labor': 100, 'Water': 6000},
+    'Rice':         {'Cost': 550, 'Labor': 150, 'Water': 1200}, 
+    'Maize':        {'Cost': 350, 'Labor': 80,  'Water': 500},
+    'Sugarcane':    {'Cost': 800, 'Labor': 200, 'Water': 2000}, 
+    'Cotton(lint)': {'Cost': 450, 'Labor': 120, 'Water': 700},
+    'Arhar/Tur':    {'Cost': 300, 'Labor': 60,  'Water': 400},
+    'Jute':         {'Cost': 400, 'Labor': 100, 'Water': 600},
 }
-DEFAULT_RES = {'Cost': 40000, 'Labor': 100, 'Water': 6000}
+DEFAULT_RES = {'Cost': 400, 'Labor': 100, 'Water': 600}
 DEFAULT_PRICE = 1500.0
 
 # --- Helper Functions ---
